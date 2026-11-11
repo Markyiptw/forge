@@ -3,10 +3,11 @@
 Forge is a GNOME Shell extension that provides tiling/window management **_AND_** is looking for a new owner or maintainer:
 - https://github.com/orgs/forge-ext/discussions/276
 - https://github.com/forge-ext/forge/issues/336
+- Forge By Claude and @jcrussell - please check it out! https://github.com/jcrussell/forge
 
 ## Features
 
-- Works on GNOME 45 through 50.1. X11 and Wayland
+- Works on GNOME 45 through 51. X11 and Wayland
 - Tree-based tiling with vertical and horizontal split containers similar to i3-wm and sway-wm
 - Vim-like keybindings for navigation/swapping windows/moving windows in the containers
 - Drag and drop tiling
